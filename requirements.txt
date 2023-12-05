@@ -1,0 +1,2 @@
+beautifulsoup3
+jsonpath-ng
